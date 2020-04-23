@@ -139,7 +139,7 @@
 
 /* Follow button color */
 .zxHSSc {
-    color: #25750f;
+    color: #fff;
     background-color: #2d2d2d;
     border: solid 1px #3f3f3f;
 }
@@ -147,7 +147,7 @@
     background: transparent;
 }
 .zxHSSc.FuHVqe {
-    background-color: rgba(150,30,30,0.300);
+    background-color: #25750f;
 }
 
 /* Cancel button when editing a message */
