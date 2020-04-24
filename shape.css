@@ -228,11 +228,11 @@ img {
     min-height: 30px;
 }
 
-/* Reduce height of link and file previews */
-.Pj9rof { /* global block */
+/* Reduce height of link and file previews 
+.Pj9rof { /* global block */ /*
     height: 140px;
     width: 500px;
-}
+}*/
 .tHcB6b { /* image container */
     height: 100px;
 }
