@@ -474,7 +474,10 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 }
 /* Emoji Picker Scroll Bar */
 .krjOGe:hover::-webkit-scrollbar-thumb {
-    background-color: #138d82;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: 4px;
+    padding: 100px 0 0;
 }
 
 /* Active Marker Color*/
