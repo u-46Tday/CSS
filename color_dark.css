@@ -472,6 +472,10 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 .t1B6D .jBmls {
     background-color: #2d2d2d;
 }
+/* Emoji Picker Scroll Bar */
+.krjOGe:hover::-webkit-scrollbar-thumb {
+    background-color: #138d82;
+}
 
 /* Active Marker Color*/
 .Qgwczb {
