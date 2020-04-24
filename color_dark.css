@@ -459,12 +459,12 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 
 /*Colon Emoji Picker Active Selection */
 .oKubKe {
-    background-color: #138d82;
+    background-color: #b7c9c7;
     color: #fff;
 }
 
 /* Colon Emoji Pocker Inactive Selection*/
-.t1B6D, .jBmls,.VOEIyf, .VOEIyf .jBmls, .oKubKe {
+.t1B6D, .jBmls,.VOEIyf, .VOEIyf .jBmls {
     background-color: #2d2d2d;
     color: #fff;
 }
