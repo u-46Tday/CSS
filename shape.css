@@ -162,11 +162,12 @@ img {
     padding-top: 0;
 }
 
-/* Reduce margin around reaction emojis */
+/* Reduce margin around reaction emojis 
 .SFMExc, .FIgEvc {
     margin-top: 0;
     margin-bottom: 0;
 }
+*/
 
 /* Reduce margin around link previews */
 .V5MAMb {
