@@ -421,6 +421,12 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     fill: #000 !important;
 }
 
-.FvYVyf {
+/*global time stamps*/
+.FvYVyf { 
     color: #fff;
+}
+
+/*Status menu*/
+.gWTIDe {
+    background-color: #2d2d2d;
 }
