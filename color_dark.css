@@ -468,11 +468,10 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     background-color: #2d2d2d;
     color: #fff;
 }
-/* Colon Emoji Pocker Inactive Selection
-.t1B6D, .jBmls,.VOEIyf, .VOEIyf .jBmls {
+/*Colon Emoji Pocker Inactive Selection */
+.t1B6D .jBmls {
     background-color: #2d2d2d;
-    color: #fff;
-} */
+}
 
 /* Active Marker Color*/
 .Qgwczb {
