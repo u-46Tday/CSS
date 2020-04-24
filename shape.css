@@ -191,7 +191,7 @@ img {
 
 /* Reduce margin below lowest message in thread */
 .jGyvbd > .nF6pT:last-child, .zh742e:last-child {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 /* Make inline pre look like slack's */
