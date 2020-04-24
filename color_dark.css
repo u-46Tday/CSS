@@ -435,14 +435,23 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     color: #fff;
 }
 
-/*Contact PopUp*/
+/*Contact PopUp Test
 .YADHBe, .qDm3sf, .bBI3Tb, .MCcOAc, .IqBfM, .LcUz9d, .EWZcud, .e2G3Fb, .d8Etdd, .cjGgHb{
     background-color: #2d2d2d;
     
 }
+*/
 
 /*Emoji Reaction who reacted popup*/
 .tYFJLd {
     background-color: #2d2d2d;
     color: #fff;
+}
+
+/*Emoji Picker */
+.UUK6Zd, .Tl0u0c {
+    background-color: #2d2d2d;
+}
+.j322zf {
+    fill: #fff;
 }
