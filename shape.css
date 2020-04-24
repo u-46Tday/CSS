@@ -5,8 +5,8 @@
 
 /* Reduce left and right margins in the chat area */
 .BEjUKc .cFc9ae {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     width: auto;
     max-width:none;
 }
@@ -65,7 +65,7 @@
 
 /* Padding height between messages in a thread */
 .nF6pT {
-    padding-top: 4px;
+    padding-top: 6px;
 }
 
 /* Margins around Unread label */
@@ -138,7 +138,7 @@ img {
 
 /* Reduce space between thread blocks */
 .cZICLc {
-    margin-top: 12px;
+    margin-top: 22px;
 }
 
 /* Increase boldness of usenames in conversations */
@@ -191,7 +191,7 @@ img {
 
 /* Reduce margin below lowest message in thread */
 .jGyvbd > .nF6pT:last-child, .zh742e:last-child {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 /* Make inline pre look like slack's */
