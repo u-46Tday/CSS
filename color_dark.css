@@ -459,8 +459,8 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 
 /*Colon Emoji Picker Active Selection */
 .oKubKe[aria-selected="true"] {
-    /*background-color: #138d82c7;*/
-    color: #138d82;
+    background-color: #138d82;
+    color: #fff;
 }
 
 /* Colon Emoji Pocker Inactive Selection*/
