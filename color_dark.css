@@ -91,14 +91,14 @@
 
 /* Edit/react/delete buttons on message */
 .f8lxbf {
-    fill: #fff;
+    fill: #25750f;
 }
 .eWw5ab {
     background-color: #2d2d2d;
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
-    background-color: #25750f;
+    background-color: #fff;
 }
 
 /* Active thread box */
@@ -405,14 +405,14 @@
     border: 1px solid #6a6a6a;
 }
 .YK45Id {
-    color: #25750f; /*testing text color*/
+    color: #25750f; 
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: #25750f;
+    color: #fff; /*testing text color*/
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: #25750f;
+    fill: #25750f; /*testing hover in multiple locations*/
 }
 
 /* browse room and search exit button */
