@@ -457,4 +457,9 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     fill: #fff;
 }
 
+/* Active Marker Color Change to new message blue*/
+.Qgwczb {
+    background-color: #1a73e8;
+}
+
 /* Chat Red notification #ff1744 */
