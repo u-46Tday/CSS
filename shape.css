@@ -244,10 +244,10 @@ img {
     line-height: 13px;
 }
 .SXFjfb { /* text container */
-    height: 40px;
+    /*height: 40px; */
     padding-top: 3px;
     padding-left: 15px;
-}
+} 
 .VEWZeb { /* icon next to text */
     height: 16px;
     margin-right: 0px;
