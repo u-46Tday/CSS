@@ -540,7 +540,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 /* GMAIL TWEAKS */
 
 /* Popout Textbox */
-.dJ9vNe.DbQnIe {
+.dJ9vNe:active .DbQnIe:active {
     background-color: #212121;
 }
 
