@@ -540,12 +540,8 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 /* CHAT IN GMAIL TWEAKS ---------------------------------------------------------------------------------------*/
 
 /* Popout Textbox */
-.PhFuQe .yXgmRe .dJ9vNe {
+.PhFuQe .yXgmRe {
     background-color: #212121;
-}
-
-.tRuV8b .pS5UB .zmXnlc .vIO7af {
-    background-color: #3c4043 !important;
 }
 
 /*Popout Deets */
@@ -561,7 +557,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     background-color: #2d2d2d;
 }
 
-.zmXnlc .dKv0S.dKv0S {
+.zmXnlc .dKv0S.dKv0S .vIO7af{
     height: 56px;
     background-color: #2d2d2d;
 }
