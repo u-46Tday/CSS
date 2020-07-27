@@ -463,7 +463,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     color: #fff;
 }
 
-/*Colon Emoji Picker InActive Selection */
+/*Colon Emoji Picker Inactive Selection */
 .oKubKe[aria-selected="false"] {
     background-color: #2d2d2d;
     color: #fff;
@@ -537,14 +537,14 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     
 /* Chat Red notification #ff1744 */
 
-/* GMAIL TWEAKS */
+/* CHAT IN GMAIL TWEAKS ---------------------------------------------------------------------------------------*/
 
 /* Popout Textbox */
 .PhFuQe.yXgmRe .dJ9vNe {
     background-color: #212121;
 }
 
-.tRuV8b .pS5UB {
+.pS5UB {
     background-color: #2d2d2d;
 }
 
