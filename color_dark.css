@@ -493,7 +493,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 
 /* Remove Search Drop Shadow */
 .d6pS5 {
-    box-shadow:transparent;
+    box-shadow: transparent;
     border: solid;
     border-color: #3f3f3f;
 }
