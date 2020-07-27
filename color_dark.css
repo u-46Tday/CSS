@@ -491,4 +491,26 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     color: #fff;
 }
 
+/* Remove Search Drop Shadow */
+.d6pS5 {
+    box-shadow:transparent;
+    border: solid;
+    border-color: #3f3f3f;
+}
+
+/* Bot Image Background Color */
+.DO97we .OcqlLb {
+    background-color: #2d2d2d;
+}
+
+/* Emoji Icon Background Color */
+.OcqlLb.vif9vc {
+    background-color: #3f3f3f;
+}
+
+/* Member Count */
+.sNyyib .x1jjEb {
+    padding-left: 5px;
+    color: #fff;
+    
 /* Chat Red notification #ff1744 */
