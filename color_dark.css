@@ -553,10 +553,6 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     color: #fff;
 }
 
-.dKv0S {
-    background-color: #2d2d2d;
-}
-
-.vmpzOc {
-    background-color: #2d2d2d;
+.vmpzOc .dKv0S {
+    background-color: #2d2d2d !important;
 }
